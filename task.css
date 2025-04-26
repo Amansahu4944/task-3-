@@ -1,0 +1,17 @@
+
+.parent{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+
+}
+.head{
+    font-style: italic;
+    font-size:100px ;
+}
+.head2{
+    background-color: red;
+}
+.head3{
+    font-size: 100px;
+}
